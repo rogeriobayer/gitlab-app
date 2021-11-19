@@ -15,7 +15,7 @@ Prof. Alexander Robert Kutzke
 
 # Atividade Gitlab
 
-Crie uma aplicação com o Expo (já inicializada nesse repositório) que se comunique com a api do nosso gitlab (mais informações https://gitlab.tadsufpr.net.br/help/api/README.md) e que atenda aos seguintes requisitos:
+Crie uma aplicação com o Expo (já inicializada nesse repositório) que se comunique com a api do gitlab.com (mais informações https://gitlab.com/help/api/README.md) e que atenda aos seguintes requisitos:
 
 - Realizar autenticação na API acima;
 - Persistir o login (`access_token`) por meio de `AsyncStorare`;
